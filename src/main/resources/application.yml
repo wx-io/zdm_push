@@ -5,13 +5,13 @@ server:
 spring:
   application:
     name: zdm
-# ÅäÖÃ×Ô¼ºµÄserver½´key
-# ²Î¿¼µØÖ·£ºhttp://sc.ftqq.com/3.version
-key: b082eb2****
-# Ê²Ã´ÖµµÃÂò±¬ÁÏÈËid£º
-# ²Î¿¼£ºhttps://zhiyou.smzdm.com/member/9687682701/baoliao/
+# é…ç½®è‡ªå·±çš„serveré…±key
+# å‚è€ƒåœ°å€ï¼šhttp://sc.ftqq.com/3.version
+key: SCU121542T4ae6a16b2ad9118f8619dcebf1efe5a55f9a393ff329a
+# ä»€ä¹ˆå€¼å¾—ä¹°çˆ†æ–™äººidï¼š
+# å‚è€ƒï¼šhttps://zhiyou.smzdm.com/member/9687682701/baoliao/
 uid: 9687682701
-# server½´ÓĞÃ¿Ìì´ÎÊıÏŞÖÆ½¨Òé£º60ÃëÖÓÒ»´Î£¬ÒÑ¾­×öÁËÖØ¸´ÏŞÖÆ£¬ÏàÍ¬ÉÌÆ·²»»áÖØ¸´ÍÆËÍ
+# serveré…±æœ‰æ¯å¤©æ¬¡æ•°é™åˆ¶å»ºè®®ï¼š60ç§’é’Ÿä¸€æ¬¡ï¼Œå·²ç»åšäº†é‡å¤é™åˆ¶ï¼Œç›¸åŒå•†å“ä¸ä¼šé‡å¤æ¨é€
 corn: 0/59 * * * * ?
-#²âÊÔÆµÂÊ£ºÊ®ÃëÒ»´Î
+#æµ‹è¯•é¢‘ç‡ï¼šåç§’ä¸€æ¬¡
 #corn: 0/30 * * * * ?
